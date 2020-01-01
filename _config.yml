@@ -98,13 +98,13 @@ deploy:
   region: ap-shanghai
 
 
-#- type: git
-#  repo: https://git.coding.net/omnibingo/talk2.it.git
-#  branch: master
+- type: git
+  repo: https://git.coding.net/omnibingo/talk2.it.git
+  branch: master
 
-#- type: git
-#  repo: https://git.coding.net/omnibingo/omnibingo.git
-#  branch: master
+- type: git
+  repo: https://git.coding.net/omnibingo/omnibingo.git
+  branch: master
 # Avatar by Bingo
 #avatar: https://ws2.sinaimg.cn/large/006tNc79gy1fi1qihrooxj30nh0nhwf4.jpg
 
